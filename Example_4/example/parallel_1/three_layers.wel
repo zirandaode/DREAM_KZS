@@ -1,0 +1,6 @@
+# WEL: Well package file
+ 3 54 # DataSet 2: MXACTC IGHBCB Option
+ 3 0  # Data Set 5: ITMP NP Stress period 1
+ 1 18 17 -1.500000000000E-002  0 # Data Set 6: Layer Row Column Bhead Q IFACE Intersected by Object25 with formula: -0.05
+ 2 18 17 -1.500000000000E-002  0 # Data Set 6: Layer Row Column Bhead Q IFACE Intersected by Object26 with formula: -0.05
+ 3 18 17 -1.500000000000E-002  0 # Data Set 6: Layer Row Column Bhead Q IFACE Intersected by Object27 with formula: -0.05

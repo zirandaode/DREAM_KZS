@@ -1,5 +1,5 @@
 # DREAM_KZS
-This is the MATLAB codes of DREAM_(KZS).
+This is the MATLAB codes of DREAM_(KZS). Please try Run_DREAM_KZS.m for test.
 
 The paper [*Improving Simulation Efficiency of MCMC for Inverse Modeling of Hydrologic Systems with a Kalman-Inspired Proposal Distribution*](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019WR025474) has been published in *Water Resources Research*.
 

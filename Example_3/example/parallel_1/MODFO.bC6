@@ -1,0 +1,4 @@
+           0  0.00E+00         0  0.00E+00         0         0  IBCFCB,HDRY,IWDFLG,WETFCT,IWETIT,IHDWET
+ 0 
+CONSTANT   1.000000E+00  TRPY
+OPEN/CLOSE     Cond_01.dat 1. (81f10.4)    -3              #Conductivity layer 1

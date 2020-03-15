@@ -1,0 +1,15 @@
+#
+# NOTE: Forward slashes (/) in pathnames may need to be converted
+#       to back slashes (\) in some computing environments
+#
+LIST  62 modfo.lst
+BAS6   5 modfo.ba6
+BCF6  11 modfo.bc6
+pcg   19 modfo.pcg
+OC    22 modfo.oc
+DIS   30 modfo.dis
+LMT6  66 modfo.lmt
+
+
+
+

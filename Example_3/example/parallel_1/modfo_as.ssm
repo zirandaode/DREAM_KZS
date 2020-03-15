@@ -1,0 +1,8 @@
+ T F F F F T      FWEL,FDRN,FRCH,FEVT,FRIV,FGHB
+      1800        MXSS
+         0  NSS   ! for the first period
+         1   NSS    ! release contaminant in the second period
+!  this row is for the K,I,J,CSS,ITYPE of the second period
+         0   NSS   ! for the third period
+
+

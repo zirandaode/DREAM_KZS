@@ -1,0 +1,79 @@
+#
+# MT3DMS v5 Name file for test case 
+#
+
+# Standard output file
+LIST  0 modfo.m3d
+
+# Transport package input files
+BTN   0 modfo.btn
+ADV   0 modfo.adv
+DSP   0 modfo.dsp
+SSM   0 modfo.ssm
+GCG   0 modfo.gcg
+
+
+# Flow-Transport Link input file
+FTL   0 modfo.ftl  free noprint
+
+# external input file
+data 30 SCon_00.dat
+data 31 SCon_02.dat
+data 32 SCon_03.dat
+data 33 SCon_04.dat
+data 34 SCon_05.dat
+data 35 SCon_06.dat
+data 36 SCon_07.dat
+data 37 SCon_08.dat
+data 38 SCon_09.dat
+data 39 SCon_10.dat
+data 40 SCon_11.dat
+data 41 SCon_12.dat
+data 42 SCon_13.dat
+data 43 SCon_14.dat
+data 44 SCon_15.dat
+data 45 SCon_16.dat
+data 46 SCon_17.dat
+data 47 SCon_18.dat
+data 48 SCon_19.dat
+data 49 SCon_20.dat
+data 50 Poro_01.dat
+data 51 Poro_02.dat
+data 52 Poro_03.dat
+data 53 Poro_04.dat
+data 54 Poro_05.dat
+data 55 Poro_06.dat
+data 56 Poro_07.dat
+data 57 Poro_08.dat
+data 58 Poro_09.dat
+data 59 Poro_10.dat
+data 60 Poro_11.dat
+data 61 Poro_12.dat
+data 62 Poro_13.dat
+data 63 Poro_14.dat
+data 64 Poro_15.dat
+data 65 Poro_16.dat
+data 66 Poro_17.dat
+data 67 Poro_18.dat
+data 68 Poro_19.dat
+data 69 Poro_20.dat
+data 70 Disp_01.dat
+data 71 Disp_02.dat
+data 72 Disp_03.dat
+data 73 Disp_04.dat
+data 74 Disp_05.dat
+data 75 Disp_06.dat
+data 76 Disp_07.dat
+data 77 Disp_08.dat
+data 78 Disp_09.dat
+data 79 Disp_10.dat
+data 80 Disp_11.dat
+data 81 Disp_12.dat
+data 82 Disp_13.dat
+data 83 Disp_14.dat
+data 84 Disp_15.dat
+data 85 Disp_16.dat
+data 86 Disp_17.dat
+data 87 Disp_18.dat
+data 88 Disp_19.dat
+data 89 Disp_20.dat

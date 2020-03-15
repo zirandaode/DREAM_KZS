@@ -1,0 +1,6 @@
+#3D klme flow simulation                                                               
+#Two constant-head boundaries, flow from left to right
+NO OPTIONS
+OPEN/CLOSE      IBOUND01.DAT 1  (81I2)      -3  IBOUND layer   1
+    999.99  HNOFLO
+OPEN/CLOSE      INITIAL01.DAT 1. (free)    -3  Initial Head layer   1

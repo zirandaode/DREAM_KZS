@@ -1,0 +1,95 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: test - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1B89.tmp" with contents
+[
+/check:bounds /compile_only /dbglibs /debug:full /nologo /traceback /warn:argument_checking /warn:nofileopt /module:"Debug/" /object:"Debug/" /pdbfile:"Debug/DF60.PDB" 
+"D:\research\MF2K-SCM\mf2k\test\lmt6.f"
+]
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1B8A.tmp" with contents
+[
+kernel32.lib /nologo /subsystem:console /incremental:no /pdb:"Debug/test.pdb" /debug /machine:I386 /out:"Debug/test.exe" /pdbtype:sept 
+".\Debug\ctime.obj"
+".\Debug\daf1.obj"
+".\Debug\de45.obj"
+".\Debug\glo1bas6.obj"
+".\Debug\gutsdaf.obj"
+".\Debug\gwf1bas6.obj"
+".\Debug\gwf1bcf6.obj"
+".\Debug\gwf1chd6.obj"
+".\Debug\gwf1drn6.obj"
+".\Debug\gwf1drt1.obj"
+".\Debug\gwf1ets1.obj"
+".\Debug\gwf1evt6.obj"
+".\Debug\gwf1fhb1.obj"
+".\Debug\gwf1gag5.obj"
+".\Debug\gwf1ghb6.obj"
+".\Debug\gwf1hfb6.obj"
+".\Debug\gwf1huf2.obj"
+".\Debug\gwf1ibs6.obj"
+".\Debug\gwf1lak3.obj"
+".\Debug\gwf1lpf1.obj"
+".\Debug\gwf1mnw1.obj"
+".\Debug\gwf1rch6.obj"
+".\Debug\gwf1res1.obj"
+".\Debug\gwf1riv6.obj"
+".\Debug\gwf1sfr2.obj"
+".\Debug\gwf1str6.obj"
+".\Debug\gwf1sub1.obj"
+".\Debug\gwf1swt1.obj"
+".\Debug\gwf1wel6.obj"
+".\Debug\hufutl2.obj"
+".\Debug\hydmod.obj"
+".\Debug\lmg1.obj"
+".\Debug\lmt6.obj"
+".\Debug\memchk.obj"
+".\Debug\mf2k.obj"
+".\Debug\mhc1.obj"
+".\Debug\obs1adv2.obj"
+".\Debug\obs1bas6.obj"
+".\Debug\obs1drn6.obj"
+".\Debug\obs1drt1.obj"
+".\Debug\obs1ghb6.obj"
+".\Debug\obs1riv6.obj"
+".\Debug\obs1str6.obj"
+".\Debug\parutl1.obj"
+".\Debug\pcg2.obj"
+".\Debug\pes1bas6.obj"
+".\Debug\pes1gau1.obj"
+".\Debug\rtedaf.obj"
+".\Debug\sen1bas6.obj"
+".\Debug\sen1chd6.obj"
+".\Debug\sen1drn6.obj"
+".\Debug\sen1drt1.obj"
+".\Debug\sen1ets1.obj"
+".\Debug\sen1evt6.obj"
+".\Debug\sen1ghb6.obj"
+".\Debug\sen1hfb6.obj"
+".\Debug\sen1huf2.obj"
+".\Debug\sen1lpf1.obj"
+".\Debug\sen1rch6.obj"
+".\Debug\sen1riv6.obj"
+".\Debug\sen1str6.obj"
+".\Debug\sen1wel6.obj"
+".\Debug\sip5.obj"
+".\Debug\sor5.obj"
+".\Debug\utl6.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1B8A.tmp"
+<h3>Output Window</h3>
+Compiling Fortran...
+D:\research\MF2K-SCM\mf2k\test\lmt6.f
+Linking...
+
+
+
+<h3>Results</h3>
+test.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
